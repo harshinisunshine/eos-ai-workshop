@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshini
+ # 👋 Hi, I'm Harshini
 
 I'm a Grade 10 student at EOS Sunshine School, Chennai.
 This is my portfolio for the EOS × Spark AI Workshop 2026.
@@ -15,3 +15,4 @@ and I want to be the one building it — not watching.
 
 ## Tools I'm learning
 Python · NumPy · Pandas · scikit-learn · TensorFlow · OpenAI API
+workshop testing-success!
